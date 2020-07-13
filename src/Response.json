@@ -1,0 +1,77 @@
+{
+    "laptops": [{
+            "name": "Lenovo Ideapad S145 AMD A6-9225 ",
+            "img_src": "https://images-eu.ssl-images-amazon.com/images/I/41-OnI0081L._AC_US160_FMwebp_QL70_.jpg",
+            "description": "15.6 inch HD Thin and Light Laptop (4GB/1TB/Windows 10/Grey/1.85Kg), 81N30063IN",
+            "price": "₹ 23,990.00"
+        },
+        {
+            "name": "ASUS VivoBook 14 X409UA-EK361TS ",
+            "img_src": "https://images-eu.ssl-images-amazon.com/images/I/41Lo3lc0xGL._AC_US160_FMwebp_QL70_.jpg",
+            "description": "Intel Core i3 7th Gen 14-inch FHD Compact, Light Laptop (4GB RAM/256GB",
+            "price": "₹ 31,990.00"
+        },
+        {
+            "name": " HP 15 db1069AU ",
+            "img_src": "https://images-eu.ssl-images-amazon.com/images/I/41-OnI0081L._AC_US160_FMwebp_QL70_.jpg",
+            "description": "15.6-inch Laptop (3rd Gen Ryzen 3 3200U/4GB/1TB HDD/Windows 10/MS Office/Radeon Vega 3 Graphics), Jet Black",
+            "price": "₹ 39,990.00"
+        },
+        {
+            "name": "HP Pavilion x360 ",
+            "img_src": "https://images-eu.ssl-images-amazon.com/images/I/416TLtHS8yL._AC_US160_FMwebp_QL70_.jpg",
+            "description": "Core i3 10th Gen 14-inch HD Touchscreen 2-in-1 Alexa Enabled Laptop (4GB/256GB SSD/Windows 10), 14-dh1006TU",
+            "price": "₹49,170.00"
+        }
+    ],
+    "headphones": [{
+            "name": "Leaf Bass 2 ",
+            "img_src": "https://m.media-amazon.com/images/I/813mqfa-6hL._AC_UY218_.jpg",
+            "description": "Wireless Bluetooth Headphones with Hi-Fi Mic and 15 Hours Battery Life, Over-Ear Headphones with Super Soft Cushions",
+            "price": " ₹ 1,499.00"
+        },
+        {
+            "name": "Sennheiser HD 4.50 SE BT NC",
+            "img_src": "https://m.media-amazon.com/images/I/61OdVcoSQVL._AC_UY218_.jpg",
+            "description": "Bluetooth 4.0 and apt technologies deliver exceptional wireless sound quality",
+            "price": "₹ 11,059.00"
+        },
+        {
+            "name": "Sony WH-1000XM3",
+            "img_src": "https://images-na.ssl-images-amazon.com/images/I/61D4Z3yKPAL._SL1500_.jpg",
+            "description": "Industry Leading Wireless Noise Cancelling Headphones, Bluetooth Headset with Mic for Phone Calls, 30 Hours Battery Life",
+            "price": " ₹ 24,990.00"
+        },
+        {
+            "name": "Bose QuietComfort 35 II",
+            "img_src": "https://images-na.ssl-images-amazon.com/images/I/51sAtKgDkDL._SY450_.jpg",
+            "description": "Wireless Bluetooth Headphones with Hi-Fi Mic and 15 Hours Battery Life, Over-Ear Headphones with Super Soft Cushions  ",
+            "price": " ₹ 1,499.00"
+        }
+    ],
+    "mobiles": [{
+            "name": "OnePlus 8 5G ",
+            "img_src": "https://images-na.ssl-images-amazon.com/images/I/619iTNHSCGL._SL1500_.jpg",
+            "description": "48MP rear camera with 4k video at 30/60 fps, 1080p video at 30/60 fps, super slow motion: 720p video at 480 fps, 1080p video at 240fps",
+            "price": "₹ 49,170.00"
+        },
+        {
+            "name": "Samsung Galaxy Z Flip (Gold, 8GB RAM, 256GB Storage)",
+            "img_src": "https://images-na.ssl-images-amazon.com/images/I/61e3gEDsIbL._SL1500_.jpg",
+            "description": "12+12MP dual rear camera setup OIS (wide) 2PD F1.8 + (ultra wide) FF F2.2 | 10MP F2.4 front punch hole camera",
+            "price": "₹ 1,08,999.00"
+        },
+        {
+            "name": "Samsung Galaxy S10 Plus (Blue, 8GB RAM, 128GB Storage)",
+            "img_src": "https://images-na.ssl-images-amazon.com/images/I/61fv4VZRQ7L._SL1500_.jpg",
+            "description": "Triple rear camera setup: 16MP with f2.2 aperture ultra wide + 12MP with f1.5 and f2.4 aperture wide + 12MP f2.4 tele| Dual front camera setup",
+            "price": "₹ 57,999.00"
+        },
+        {
+            "name": "Vivo U10 (Electric Blue, 5000 mAH 18W Fast Charge Battery, 3GB RAM, 32GB Storage)",
+            "img_src": "https://images-na.ssl-images-amazon.com/images/I/51ltipMHjiL._SL1200_.jpg",
+            "description": "Memory, Storage & SIM: 3GB RAM | 32GB internal memory expandable up to 256GB | Dual SIM (nano+nano)",
+            "price": "₹ 10,990.00"
+        }
+    ]
+}

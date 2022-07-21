@@ -12,7 +12,7 @@
     "react-scripts": "2.1.1",
     "redux": "^4.0.5",
     "redux-logger": "^3.0.6",
-    "terser": "3.14.1"
+    "terser": "4.8.1"
   },
   "scripts": {
     "start": "react-scripts start",
